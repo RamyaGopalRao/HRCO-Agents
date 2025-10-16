@@ -1,4 +1,4 @@
-Here’s a clean and informative addition for your `README.md` that includes both the **architecture overview** and **how to run the project**:
+
 
 ---
 
@@ -39,4 +39,5 @@ The app will:
 - Match it to the job description
 - Simulate interview questions
 - Provide feedback
+
 
